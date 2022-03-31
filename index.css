@@ -2,3 +2,18 @@ body
 {
     background-image:url('/images/background.webp');
 }
+
+a:link {color:#000000;}      /* 未访问链接*/
+a:visited {color:#00FF00;}  /* 已访问链接 */
+a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
+a:active {color:#0000FF;}  /* 鼠标点击时 */
+
+p.one
+{
+	border-style:solid;
+	border-width:1px;
+}
+
+header{
+    padding: 10px;
+}
