@@ -106,3 +106,31 @@ li a {
     display: block;
 }
 
+/* 内容布局*/
+
+.column {
+    float: left;
+    padding: 10px;
+  }
+
+.column.left {
+    width: 60%;
+  }
+
+.column.right {
+    width: 40%;
+  }
+
+/* 列后清除浮动 */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+   
+  /* 响应式布局 - 小于 600 px 时改为上下布局 */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
