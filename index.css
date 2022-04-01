@@ -14,6 +14,11 @@ p.one
 	border-width:1px;
 }
 
+p.serif{font-family:"Times New Roman",Times,serif;
+    border-style:solid;
+	border-width:1px;
+}
+
 header{
     padding: 10px;
 }
@@ -32,8 +37,29 @@ ul {
     background-color: #333;
 }
 
+ul.one{
+    list-style-type: none;
+    margin-left:50%;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(142, 138, 138, 0.112);
+}
+
 li {
     float: left;
+}
+
+li.one{
+    float: none;
+    display: block;
+}
+
+li a.one{
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 li a.active {
@@ -114,7 +140,7 @@ li a {
 
 .column {
     float: left;
-    padding: 10px;
+    
   }
 
 .column.left {
@@ -132,13 +158,9 @@ li a {
     clear: both;
   }
    
-  /* 响应式布局 - 小于 600 px 时改为上下布局 */
-  @media screen and (max-width: 600px) {
-    .column.left .column.right {
-      width: 100%;
-    }
-  }
+ 
 
+ 
 .card{
     background-color: rgba(194, 241, 194, 0.467);
 
