@@ -18,6 +18,10 @@ header{
     padding: 10px;
 }
 
+marker{
+    background-color: #00FF00;
+}
+
 
 /*导航条*/
 ul {
@@ -130,12 +134,13 @@ li a {
    
   /* 响应式布局 - 小于 600 px 时改为上下布局 */
   @media screen and (max-width: 600px) {
-    .column {
+    .column.left .column.right {
       width: 100%;
     }
   }
 
 .card{
     background-color: rgba(194, 241, 194, 0.467);
-    
+
 }
+
