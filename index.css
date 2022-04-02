@@ -24,6 +24,19 @@ span.serif{
     font-family:"Times New Roman",Times,serif;
 }
 
+span a.one{
+    color: rgba(71, 69, 69, 0.462);
+    
+}
+
+span a.one:hover{
+    color: #FF00FF;
+}
+
+span a.one:active{
+    color:#00FF00;
+}
+
 /*头部样式*/
 header{
     padding-left: 20%;
