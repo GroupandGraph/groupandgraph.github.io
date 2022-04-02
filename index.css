@@ -21,7 +21,7 @@ p.serif{font-family:"Times New Roman",Times,serif;
 }
 
 header{
-    padding: 10px;
+    padding-left: 20%;
 }
 
 marker{
@@ -46,6 +46,15 @@ ul.one{
     background-color: rgba(142, 138, 138, 0.112);
 }
 
+ul.two{
+    list-style-type: none;
+    margin-left:30%;
+    margin-top:30%;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+}
+
 
 li {
     float: left;
@@ -54,6 +63,10 @@ li {
 li.one{
     float: none;
     display: block;
+}
+
+li.two{
+    float: right;
 }
 
 li a.one{
