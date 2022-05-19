@@ -96,6 +96,13 @@ ul.two{
     background-color: rgba(0, 0, 0, 0);
 }
 
+ul.three{
+    list-style-type:  disc;
+    padding-left: 5%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+}
+
 
 li {
     float: left;
@@ -108,6 +115,11 @@ li.one{
 
 li.two{
     float: right;
+}
+
+li.three{
+    float:none;
+    margin-bottom: 2em;
 }
 
 li a.one{
