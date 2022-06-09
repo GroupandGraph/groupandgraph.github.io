@@ -41,6 +41,8 @@ span a.one:active{
     color:#00FF00;
 }
 
+
+
 /*头部样式*/
 header{
     padding-left: 20%;
@@ -96,7 +98,7 @@ ul.two{
     background-color: rgba(0, 0, 0, 0);
 }
 
-ul.three{
+dl.three{
     list-style-type:  disc;
     padding-left: 5%;
     overflow: hidden;
@@ -108,6 +110,7 @@ li {
     float: left;
 }
 
+
 li.one{
     float: none;
     display: block;
@@ -117,7 +120,7 @@ li.two{
     float: right;
 }
 
-li.three{
+dt.three{
     float:none;
     margin-bottom: 2em;
 }
@@ -151,6 +154,8 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+
 
 .dropdown a.fix {
     display: inline-block;
