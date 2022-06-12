@@ -41,6 +41,9 @@ span a.one:active{
     color:#00FF00;
 }
 
+div a.one{
+    color: rgb(50, 21, 119)
+}
 
 
 /*头部样式*/
