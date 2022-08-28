@@ -3,8 +3,8 @@ body
     background-image:url('/images/background.webp');
 }
 
-a:link {color:#0000FF;}      /* 未访问链接*/
-a:visited {color:#0000FF;}  /* 已访问链接 */
+a:link {color:#00b7ff;}      /* 未访问链接*/
+a:visited {color:#8c00ff;}  /* 已访问链接 */
 a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
 a:active {color:#00FF00;}  /* 鼠标点击时 */
 
