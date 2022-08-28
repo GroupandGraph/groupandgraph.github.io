@@ -18,6 +18,7 @@ p.one
 p.serif{font-family:"Times New Roman",Times,serif;
     border-style:solid;
 	border-width:1px;
+    padding: 20px;
 }
 
 span.serif{
@@ -101,6 +102,13 @@ ul.two{
     background-color: rgba(0, 0, 0, 0);
 }
 
+dl.two{
+    list-style-type:  none
+    padding-left: 5%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+}
+
 dl.three{
     list-style-type:  disc;
     padding-left: 5%;
@@ -124,6 +132,7 @@ li.two{
 }
 
 dt.three{
+    display: list-item;
     float:none;
     margin-bottom: 2em;
 }
