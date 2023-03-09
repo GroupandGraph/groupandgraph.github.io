@@ -59,7 +59,7 @@
         <p style="color: rgba(71, 69, 69, 0.462);">
             You are here:
             <span><a href="../history.html">Seminars</a></span> > <span><a href="2023.html"> 2023</a></span> >
-            March 4th
+            March 18th
         
         </p>
         <h1><span class="serif">Symmetry breaking on primitive groups</span></h1>
@@ -73,6 +73,20 @@
 
         <p><br/>
             <b>Abstract:</b> <span class="serif">
+	    Many open conjectures in the representation theory of finite groups can be studied by reducing to quasi-simple
+	    groups. An important tool in this is \(p\)-radical subgroups and their local structures. A \(p\)-radical 
+	    subgroup is a subgroup \(R\) of \(G\) such that \(R=O_p(N_G(R))\), the largest normal \(p\)-subgroup of
+	    the normalizer. Call a subgroup of a finite group \(G\) \(p\)-local if it is the normalizer of nontrivial
+	    \(p\)-subgroup of \(G\). One can show that every \(p\)-radical subgroup \(R\) of \(G\) with \(O_p(G)\neq G\)
+	   is radical in some maximal-proper \(p\)-local subgroup \(M\) of \(G\). And it can be shown that every \(M\)
+	    of \(G\) can be realized as the normalizer of an elementary abelian \(p\)-subgroup. Thus, to classify \(p\)-radical 
+	    subgroups of a finite group \(G\), one can first classify elementary abelian \(p\)-subgroups. To classify
+	    elementary abelian \(p\)-subgroups of finite groups, we first do the classification in linear algebraic groups
+	    \(G\) and then use a one-to-one correspondence derived from Lang-Steinberg theorem to transfer the results to
+	    finite groups of Lie type \(G^F\), the fixed point subgroup of \(G\) of the Steinberg endomorphism \(F\).
+	
+	This approach was used by An, Heiko and Litterick to classify the local structure of elementary abelian \(p\)-subgroups
+	in finite exceptional groups of Lie type. I will report briefly on my work to solve the problem for classical groups.
           
           </span>
          </p> 
