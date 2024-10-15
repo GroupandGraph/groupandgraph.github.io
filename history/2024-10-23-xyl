@@ -65,19 +65,20 @@
         </p>
         <h1><span class="serif">On fixer for finte Ree groups with solce \({}^2G_2(q)\)</span></h1>
 
-      <h2>Marco Barbieri</h2>
-        <p>University of Pavia & University of Milano-Bicocca</p>
+      <h2>谢贻林 Yilin Xie</h2>
+        <p>Southern University of Science and Technology</p>
 
-        <p style="color: rgba(71, 69, 69, 0.462);">Time: 16:00-17:00 (GMT+8), Wednesday October 9th, 2024
+        <p style="color: rgba(71, 69, 69, 0.462);">Time: 16:00-17:00 (GMT+8), Wednesday October 23th, 2024
             <br> Location: Zoom
         </p>
 
         <p><br/>
             <b>Abstract:</b> <span class="serif">
-          A derangement is a permutation without any fixed points.
-              An outstanding property of derangements in a finite transitive permutation group is their abundance.
-              What can we say about the portion of derangements of a group acting transitively on the vertices of a graph?
-              In the present talk, we will introduce a lower bound on the portion of derangements depending only on the valency of the graph, and we will discuss its asymptotic behaviour compared to other general lower bounds.
+        Let \(G\) be a transitive permutation group on \(\Omega\). A subgroup \(K≤G\) is called a fixer if each 
+element in \(K\) fixes at least one point in \(\Omega\). A fixer \(K\) is called large if \(K\geqslant |G_\omega|\).
+In this talk, I will sketch the proof of characterizing large fixers for primitive actions of finite Ree 
+groups with socle \({}^2G_2(q)\), where  as part of the project of characterizing large fixers for lie-type group of (twisted) rank 1. 
+In particular, I will first introduce the group , its subgroups, and conjugacy classes of unipotent elements.  Then we characterize the large fixers of primitive actions of  by walking the subgroup lattice. We will study a family of additive subgroups of finite field  and their intersection to eliminate one special case. Finally, we will involve in the field automorphism and see which fixer of primitive actions of   can be extended to 
           </span>
          </p> 
       
