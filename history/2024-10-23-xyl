@@ -74,11 +74,16 @@
 
         <p><br/>
             <b>Abstract:</b> <span class="serif">
-        Let \(G\) be a transitive permutation group on \(\Omega\). A subgroup \(K≤G\) is called a fixer if each 
-element in \(K\) fixes at least one point in \(\Omega\). A fixer \(K\) is called large if \(K\geqslant |G_\omega|\).
-In this talk, I will sketch the proof of characterizing large fixers for primitive actions of finite Ree 
-groups with socle \({}^2G_2(q)\), where  as part of the project of characterizing large fixers for lie-type group of (twisted) rank 1. 
-In particular, I will first introduce the group , its subgroups, and conjugacy classes of unipotent elements.  Then we characterize the large fixers of primitive actions of  by walking the subgroup lattice. We will study a family of additive subgroups of finite field  and their intersection to eliminate one special case. Finally, we will involve in the field automorphism and see which fixer of primitive actions of   can be extended to 
+        Let \(G\) be a transitive permutation group on \(\Omega\). A subgroup \(K≤G\) is called a 
+fixer if each element in \(K\) fixes at least one point in \(\Omega\). A fixer \(K\) is called large 
+if \(K\geqslant |G_\omega|\). In this talk, I will sketch the proof of characterizing large fixers 
+for primitive actions of finite Ree groups with socle \({}^2G_2(q)\), where \(q=3^{2n+1}\), as part 
+of the project of characterizing large fixers for lie-type group of (twisted) rank 1. 
+In particular, I will first introduce the group \({}^2G_2(q)\), its subgroups, and conjugacy classes 
+of unipotent elements.  Then we characterize the large fixers of primitive actions of \({}^2G_2(q)\) 
+by walking the subgroup lattice. We will study a family of additive subgroups of finite field \(F_q\) 
+and their intersection to eliminate one special case. Finally, we will involve in the field 
+automorphism and see which fixer of primitive actions of \({}^2G_2(q)\) can be extended to Aut\(({}^2G_2(q))\).
           </span>
          </p> 
       
