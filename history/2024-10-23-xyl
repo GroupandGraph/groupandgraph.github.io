@@ -5,7 +5,7 @@
 <meta name="keywords" content="Finite Simple Group, Primitive Group, O'Nan-Scott Theorem, Symmetric Graph, Finite Field, Classical Group, 有限单群, 本原群, 对称图, 有限域, 典型群">
 <meta name="description" content="免费线上博士生讨论班，对称图论与置换群方向相关。Free online doctoral seminar, focus on the field of symmetric graph and permutation group">
 
-<base target="_self">
+<base target="_self"> 
 
 <link rel="stylesheet" type="text/css" href="../index.css">
 <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
