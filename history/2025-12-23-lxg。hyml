@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="Finite Simple Group, Primitive Group, O'Nan-Scott Theorem, Symmetric Graph, Finite Field, Classical Group, 有限单群, 本原群, 对称图, 有限域, 典型群">
+<meta name="description" content="免费线上博士生讨论班，对称图论与置换群方向相关。Free online doctoral seminar, focus on the field of symmetric graph and permutation group">
+
+<base target="_self"> 
+
+<link rel="stylesheet" type="text/css" href="../index.css">
+<link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+
+<! 引用数学公式编译器mathjax>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
+<title>群与图讨论班 Seminars on Groups and Graphs</title>
+</head>
+
+<body>
+  <header>
+    <div class="row">
+      <div class="column left">
+      <h1><a class:="none" href="../index.html">群与图讨论班
+      <br/>Seminars on Groups and Graphs</a>
+      </h1> 
+      </div>
+      <div class="column right">
+        <!-- <ul class="two">
+          <li class="two"><a href="https://www.bilibili.com/"><img src="https://www.bilibili.com/favicon.ico" alt="bilibili"></a></li>
+          <li class="two"><a href="mailto: hy.huang@bristol.ac.uk"><img src="/images/mail.ico" alt="Mail"></a></li>
+        </ul> -->
+      </div>
+    </div>
+  </header>
+
+ <ul style="padding-left: 20%; padding-right: 20%;">
+    <li><a class="fix" href="../index.html">Main</a></li>
+    
+    <div class="dropdown">
+      <a href="../history.html" class="active">Seminars</a>
+      <div class="dropdown-content">
+        <a href="2025.html"> 2025</a>
+        <a href="2024.html"> 2024</a>
+<a href="2023.html"> 2023</a>
+        <a href="2022.html"> 2022</a>
+        <a href="2021.html"> 2021</a>
+        
+      </div>
+    </div>
+    <li><a class="fix" href="../contact.html">Contact</a></li>
+  </ul>
+
+
+<div class="row" style="padding-left: 20%;"> 
+
+    <div class="column left">
+        <p style="color: rgba(71, 69, 69, 0.462);">
+            You are here:
+            <span><a href="../history.html">Seminars</a></span> > <span><a href="2025.html"> 2025</a></span> >
+            November 5th
+        
+        </p>
+        <h1><span class="serif"> A classification of regular maps with Euler characteristic a
+negative prime quadratic </span></h1>
+
+      <h2> 李小刚 Xiaogang Li</h2>
+        <p>SUSTech</p>
+
+        <p style="color: rgba(71, 69, 69, 0.462);">Time: 16:00-17:00 (GMT+8), Wednesday December 23rd, 2025
+            <br> Location: Zoom
+        </p>
+
+        <p><br/>
+            <b>Abstract:</b> <span class="serif">
+
+           In this report, we will give a classification of all regular maps \(\mathcal{M}\) on nonorientable surfaces with Euler 
+           characteristic \(−p^3\) for some prime \(p ≥ 5\). Explicitly, it is proved that either \(M\) has type \(\{4, m\}\) and 
+           \(Aut(M) \cong (Z2 × Z2) ⋊ D2m\), where \(m \equiv 3 \pmod{6}\) and \(m−4 = p^3\); or \(M\) has type \(\{2m, 2n\}\) 
+           and \(Aut(M) \cong D2m × D2n\), where \(1 < m < n\), \(2 ∤ m\), \(gcd(m, n) = 1\) and \(mn − m − n = p^3\). In particular, 
+           there exists no such map provided \(p ≡ 1(mod 12)\). Based on the currently available results, we also propose two 
+           questions for further research. This is a joint work with Yao Tian.
+          </span>
+         </p> 
+      
+
+         <p style="color: rgba(71, 69, 69, 0.462);"><br/>
+           Host: 甘芸松 Ganyun Song
+         </p>
+
+     <p><a href="../documents/2025-12-23-lxg.pdf" target="_blank">Slides</a></p>
+
+    </div>
+</div>
